@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Independent citation counter
 
-You can use the [editor on GitHub](https://github.com/arunkannawadi/independent-citation-counter/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+A (collection of) Jupyter notebook(s) that count independent citations from different bibliographic databases:
+- SAO/NASA Astrophysics Data System (ADS)
+- Google Scholar (coming soon)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What are independent citations?
 
-### Markdown
+A citation to a paper is an independent citation if the citing paper and the cited paper share no common authors.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The number of independent citations of an author is simply the sum of the number of independent citations of all papers written by that author.
+This is less restrictive than the definition where citations by those who have never written a paper together with the author.
 
-```markdown
-Syntax highlighted code block
+## Why?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arunkannawadi/independent-citation-counter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Some application packages need to exclude all counts of self-citations to evaluate the impact of one's research.
