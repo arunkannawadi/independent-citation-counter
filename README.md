@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunkannawadi/independent-citation-counter/blob/master/ads.ipynb)
+
 # Independent citation counter
 
 A (collection of) Jupyter notebook(s) that count independent citations from different bibliographic databases:
