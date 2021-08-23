@@ -1,8 +1,8 @@
 # Independent citation counter
 
 A (collection of) Jupyter notebook(s) that count independent citations from different bibliographic databases:
-- SAO/NASA Astrophysics Data System (ADS)
-- Google Scholar (coming soon)
+- SAO/NASA Astrophysics Data System (ADS) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arunkannawadi/independent-citation-counter/blob/master/notebooks/ads.ipynb)
+- Google Scholar (gscholar; coming soon)
 
 ## What are independent citations?
 
