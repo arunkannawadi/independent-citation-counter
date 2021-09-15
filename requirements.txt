@@ -1,0 +1,6 @@
+# fuzzywizzy
+# pyyaml
+scholarly
+# unidecode
+# xmltodict
+# and a public Google Scholar profile!
