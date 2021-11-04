@@ -14,3 +14,9 @@ This is less restrictive than the definition where citations by those who have n
 ## Why?
 
 Some application packages need to exclude all counts of self-citations to evaluate the impact of one's research.
+
+## How to use this tool?
+
+Click on one of the links above to open the notebook in Google Colab or in Binder. If you are new to running notebooks, check out this video tutorial.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V13Fx7GesEQ" title="Independent citations counter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
